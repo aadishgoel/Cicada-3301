@@ -29,4 +29,6 @@ and Book codes
 
 #### There You find only 2 posts having images
 * Problems: http://i.imgur.com/8D7hN.jpg
+![](Problems.jpg)
 * Welcome: http://i.imgur.com/KXLOP.jpg
+![](Welcome.jpg)
