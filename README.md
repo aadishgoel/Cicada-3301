@@ -30,5 +30,10 @@ and Book codes
 #### There You find only 2 posts having images
 * Problems: http://i.imgur.com/8D7hN.jpg
 ![](Problems.jpg)
+##### Outguess it You will get ` Problems.txt `
+``` outguess -r Problems.jpg Problems.txt ```
+
 * Welcome: http://i.imgur.com/KXLOP.jpg
 ![](Welcome.jpg)
+##### Outguess it You will get ` Welcome.txt `
+``` outguess -r Welcome.jpg Welcome.txt ```
