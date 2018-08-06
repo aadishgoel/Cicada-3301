@@ -21,3 +21,12 @@ for i in "lxxt>33m2mqkyv2gsq3q=w]O2ntk": print(chr(ord(i)-4),end="")
 This image is decoy. You have to use outguess on `Start.jpg`
 
 ``` outguess -r Start.jpg Start.txt ```
+
+### Now you get ` Start.txt `
+>In which you have
+http://www.reddit.com/r/a2e7j6ic78h0j/
+and Book codes
+
+#### There You find only 2 posts having images
+* Problems: http://i.imgur.com/8D7hN.jpg
+* Welcome: http://i.imgur.com/KXLOP.jpg
